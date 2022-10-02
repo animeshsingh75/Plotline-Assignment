@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "791008490006",
+    "project_id": "plotline-assignment",
+    "storage_bucket": "plotline-assignment.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791008490006:android:175220fe98fede00477b37",
+        "android_client_info": {
+          "package_name": "com.example.plotlineassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791008490006-k7dilc2hjambe1r3i7ivtane2so2c8qi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASdig6f2D6oirW8ezmQa0b-2vO8p_3ZBU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791008490006-k7dilc2hjambe1r3i7ivtane2so2c8qi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

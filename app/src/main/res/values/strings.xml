@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlotlineAssignment</string>
+    <string name="convert_now">Convert Now</string>
+    <string name="pick_image">Pick Image</string>
+    <string name="enter_link_for_conversion">Enter link for conversion</string>
+    <string name="open_camera">Open Camera</string>
+    <string name="show_past_images">Show past images</string>
+</resources>
